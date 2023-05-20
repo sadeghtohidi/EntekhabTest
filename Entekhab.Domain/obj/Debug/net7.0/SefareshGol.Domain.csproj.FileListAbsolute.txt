@@ -1,0 +1,15 @@
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\bin\Debug\net7.0\SefareshGol.Domain.deps.json
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\bin\Debug\net7.0\SefareshGol.Domain.dll
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\bin\Debug\net7.0\SefareshGol.Domain.pdb
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\bin\Debug\net7.0\SefareshGol.Common.dll
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\bin\Debug\net7.0\SefareshGol.Common.pdb
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.csproj.AssemblyReference.cache
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.AssemblyInfoInputs.cache
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.AssemblyInfo.cs
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.csproj.CoreCompileInputs.cache
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.csproj.CopyComplete
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.dll
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\refint\SefareshGol.Domain.dll
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\SefareshGol.Domain.pdb
+E:\Tohidi\Projects\SefareshGol\SefareshGolWebSite\SefareshGol.Domain\obj\Debug\net7.0\ref\SefareshGol.Domain.dll

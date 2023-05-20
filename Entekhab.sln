@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entekhab.Domain", "Entekhab.Domain\Entekhab.Domain.csproj", "{365D2CF0-F6B6-4781-8FAC-B92ADB02111C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entekhab.Common", "Entekhab.Common\Entekhab.Common.csproj", "{ABEF51A1-A1C8-495C-A874-C63762987B74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entekhab.Data", "Entekhab.Data\Entekhab.Data.csproj", "{D624771E-E082-415A-9CD7-7BFD350F1981}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entekhab.WebFramework", "Entekhab.WebFramework\Entekhab.WebFramework.csproj", "{6D4E9008-310D-402D-985C-9258D9E0D2C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entekhab.Services", "Entekhab.Services\Entekhab.Services.csproj", "{AE5BC720-A9D2-4A0A-8E42-A9B0B520C76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entekhab.API", "Entekhab.API\Entekhab.API.csproj", "{7A7A1A2A-3A5E-47C0-9DD4-A18C0EAFF486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365D2CF0-F6B6-4781-8FAC-B92ADB02111C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365D2CF0-F6B6-4781-8FAC-B92ADB02111C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365D2CF0-F6B6-4781-8FAC-B92ADB02111C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365D2CF0-F6B6-4781-8FAC-B92ADB02111C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEF51A1-A1C8-495C-A874-C63762987B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEF51A1-A1C8-495C-A874-C63762987B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEF51A1-A1C8-495C-A874-C63762987B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEF51A1-A1C8-495C-A874-C63762987B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D624771E-E082-415A-9CD7-7BFD350F1981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D624771E-E082-415A-9CD7-7BFD350F1981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D624771E-E082-415A-9CD7-7BFD350F1981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D624771E-E082-415A-9CD7-7BFD350F1981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4E9008-310D-402D-985C-9258D9E0D2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4E9008-310D-402D-985C-9258D9E0D2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4E9008-310D-402D-985C-9258D9E0D2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4E9008-310D-402D-985C-9258D9E0D2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5BC720-A9D2-4A0A-8E42-A9B0B520C76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5BC720-A9D2-4A0A-8E42-A9B0B520C76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5BC720-A9D2-4A0A-8E42-A9B0B520C76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5BC720-A9D2-4A0A-8E42-A9B0B520C76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7A1A2A-3A5E-47C0-9DD4-A18C0EAFF486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7A1A2A-3A5E-47C0-9DD4-A18C0EAFF486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7A1A2A-3A5E-47C0-9DD4-A18C0EAFF486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7A1A2A-3A5E-47C0-9DD4-A18C0EAFF486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {105C5D83-85A1-49B6-91BD-4A9AB9DD9704}
+	EndGlobalSection
+EndGlobal

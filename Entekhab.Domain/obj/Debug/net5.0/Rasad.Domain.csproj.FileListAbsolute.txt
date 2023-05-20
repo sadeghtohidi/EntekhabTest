@@ -1,0 +1,15 @@
+C:\Tohidi\rasad6\Rasad.Domain\bin\Debug\net5.0\Rasad.Domain.deps.json
+C:\Tohidi\rasad6\Rasad.Domain\bin\Debug\net5.0\Rasad.Domain.dll
+C:\Tohidi\rasad6\Rasad.Domain\bin\Debug\net5.0\ref\Rasad.Domain.dll
+C:\Tohidi\rasad6\Rasad.Domain\bin\Debug\net5.0\Rasad.Domain.pdb
+C:\Tohidi\rasad6\Rasad.Domain\bin\Debug\net5.0\Rasad.Common.dll
+C:\Tohidi\rasad6\Rasad.Domain\bin\Debug\net5.0\Rasad.Common.pdb
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.csproj.AssemblyReference.cache
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.AssemblyInfoInputs.cache
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.AssemblyInfo.cs
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.csproj.CoreCompileInputs.cache
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.csproj.CopyComplete
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.dll
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\ref\Rasad.Domain.dll
+C:\Tohidi\rasad6\Rasad.Domain\obj\Debug\net5.0\Rasad.Domain.pdb

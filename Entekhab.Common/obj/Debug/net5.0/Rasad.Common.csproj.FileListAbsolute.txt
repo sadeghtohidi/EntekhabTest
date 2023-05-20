@@ -1,0 +1,12 @@
+C:\Tohidi\rasad6\Rasad.Common\bin\Debug\net5.0\Rasad.Common.deps.json
+C:\Tohidi\rasad6\Rasad.Common\bin\Debug\net5.0\Rasad.Common.dll
+C:\Tohidi\rasad6\Rasad.Common\bin\Debug\net5.0\ref\Rasad.Common.dll
+C:\Tohidi\rasad6\Rasad.Common\bin\Debug\net5.0\Rasad.Common.pdb
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.csproj.AssemblyReference.cache
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.AssemblyInfoInputs.cache
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.AssemblyInfo.cs
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.csproj.CoreCompileInputs.cache
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.dll
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\ref\Rasad.Common.dll
+C:\Tohidi\rasad6\Rasad.Common\obj\Debug\net5.0\Rasad.Common.pdb
