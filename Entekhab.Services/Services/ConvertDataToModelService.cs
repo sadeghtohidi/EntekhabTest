@@ -227,7 +227,7 @@ namespace Entekhab.Services.Services
             }
             catch (Exception ex)
             {
-                return Tuple.Create(model, false, "عملیات تبدیل  در خط" + i.ToString() + " با خطا مواجه شد ");
+                return Tuple.Create(model, false, "عملیات تبدیل  در خط" + i.ToString() + " با خطا مواجه شد " + ex.Message);
 
             }
 

@@ -28,7 +28,7 @@ namespace Entekhab.Api.Controllers
         }
 
         [HttpGet("{datatype}/[controller]/[action]")]
-        public async Task<ApiResult> GetFile( [FromQuery] GetJsonRequestDto requestDto, string datatype)
+        public async Task<ApiResult> GetFile(string datatype, [FromBody] GetFileRequestDto requestDto)
         {
             var type = EnumDataType.Json;
             switch (datatype.ToUpper())
@@ -50,7 +50,7 @@ namespace Entekhab.Api.Controllers
                     break;
 
                 default:
-                    var result = new ApiResult(true, Entekhab.Common.ApiResult.ApiResultStatusCode.ProcessError, "نوع فایل نادرست است");
+                    var result = new ApiResult(false, Entekhab.Common.ApiResult.ApiResultStatusCode.ProcessError, "نوع فایل نادرست است");
                     await _convertDataToModelService.Value.InsertLogApiAsync(requestDto.Data, result.IsSuccess,result.Message, type, requestDto.OverTimeCalculator);
                     return result;
                     
@@ -64,7 +64,7 @@ namespace Entekhab.Api.Controllers
             }
             else
             {
-                var result = new ApiResult(true, Entekhab.Common.ApiResult.ApiResultStatusCode.ProcessError, resultConvert.Message);
+                var result = new ApiResult(false, Entekhab.Common.ApiResult.ApiResultStatusCode.ProcessError, resultConvert.Message);
                 await _convertDataToModelService.Value.InsertLogApiAsync(requestDto.Data, result.IsSuccess, result.Message, type, requestDto.OverTimeCalculator);
                 return result;
             }

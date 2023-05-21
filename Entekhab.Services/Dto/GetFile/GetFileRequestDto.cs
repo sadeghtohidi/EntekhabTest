@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Entekhab.Services.Dto.GetFile
 {
   
-    public abstract class GetFileRequestDto
+    public  class GetFileRequestDto
     {
         [Required(ErrorMessage = "(*)")]
         [Display(Name = "سال و ماه حقوق")]
@@ -19,5 +19,7 @@ namespace Entekhab.Services.Dto.GetFile
 
         [Required(ErrorMessage = "(*)")]
         public string Data { get; set; }
+
+
     }
 }
